@@ -7,6 +7,11 @@ export class Leads extends Component {
   static PropTypes = {
     leads: PropTypes.array.isRequired,
   };
+
+  componentDidMount() {
+    this.props.getLeads();
+  }
+
   render() {
     return (
       <div>
@@ -19,4 +24,4 @@ export class Leads extends Component {
 const mapStateToProps = (state) => ({
   leads: state.leads.leads,
 });
-export default connect(mapStateToProps)(Leads);
+export default connect(mapStateToProps, { getLeads })(Leads);
