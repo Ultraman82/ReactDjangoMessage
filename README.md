@@ -4,7 +4,7 @@
 
 > An internal message applicaion for a company
 
-> Co-developed with <a href="https://github.com/Ultraman82" title="Edgar Jeong" alt="https://github.com/Ultraman82">Edgar Jeong<a>
+> Co-developed with <a href="https://github.com/CESAR-JARAMILLO" title="CESAR-JARAMILLO" alt="https://github.com/CESAR-JARAMILLO">CESAR-JARAMILLO<a>
 
 ## Preview
 
@@ -50,6 +50,6 @@
 
 ## Live Demo
 
-> Click <a href="https://camagru.aidandlim.com" target="_blank">`HERE`</a> to check it out right now.
+> Click <a href="#" target="_blank">`HERE`</a> to check it out right now.
 
 ---
