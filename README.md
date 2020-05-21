@@ -6,6 +6,8 @@
 
 > Co-developed with <a href="https://github.com/CESAR-JARAMILLO" title="CESAR-JARAMILLO" alt="https://github.com/CESAR-JARAMILLO">CESAR-JARAMILLO<a>
 
+> Click <a href="#" target="_blank">`HERE`</a> to check it out right now.
+
 ## Preview
 
 ![alt tag](leadmanager/frontend/image/capture.png)
