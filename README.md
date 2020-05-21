@@ -8,9 +8,7 @@
 
 ## Preview
 
-<a href="https://camagru.aidandlim.com" title="preview" alt="preview">
-  <img src="https://github.com/CESAR-JARAMILLO/React-Django-Collab/tree/master/leadmanager/frontend" width="100%" title="preview" alt="preview">
-</a>
+![alt tag](leadmanager/frontend/image/capture.png)
 
 ---
 
